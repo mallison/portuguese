@@ -1,0 +1,43 @@
+* Conjugation
+
+** Present tense
+
+|                 | -ar     | -er     | -ir     |
+|-----------------+---------+---------+---------|
+| Eu              | falo    | como    | abro    |
+| Tu              | falas   | comes   | abres   |
+| Ele/Ela/Você    | fala    | come    | abre    |
+| Nós             | falamos | comemos | abremos |
+| Eles/Eles/Vocês | falom   | comem   | abrem   |
+|                 |         |         |         |
+
+
+|      | ser   | estar   | ir    | ter   |
+|------+-------+---------+-------+-------|
+| Eu   | sou   | estou   | vou   | tehno |
+| Tu   | es    | estas   | vais  | tens  |
+| Ele  | é     | ésta    | vai   | tem   |
+| Nós  | somos | estamos | vamos | temos |
+| Eles | são   | estão   | vem   | têm   |
+|      |       |         |       |       |
+
+** PPPS
+
+|                 | -ar     | -er     | -ir |
+|-----------------+---------+---------+-----|
+| Eu              | falei   | bebi    |     |
+| Tu              | falou   | beb     |     |
+| Ele/Ela/Você    | falam   | bebem   |     |
+| Nós             | falámos | bebémos |     |
+| Eles/Eles/Vocês | falom   | beb     |     |
+|                 |         |         |     |
+
+** Imperfeito
+
+| Pronoun         | -ar     | -er       | -ir     |
+|-----------------+---------+-----------+---------|
+| Eu              | falava  | bebia     |         |
+| Tu              | falavas | bebias    |         |
+| Ele/Ela/Você    | falava  | bebia     |         |
+| Nós             | falámos | falavamos | bebamos |
+| Eles/Eles/Vocês | falavam | bebam     |         |
